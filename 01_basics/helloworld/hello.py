@@ -1,1 +1,0 @@
-print("helloworld python programming");
